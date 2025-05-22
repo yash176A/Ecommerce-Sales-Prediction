@@ -22,3 +22,13 @@
 8. Saving Model
 9. Making Web App
 10. Deploy
+
+# Going through the code 
+# 1. ***importing basic Libraries and data set***
+Importing libraries and loading the Data Set. In the First block of the code i have made imported basic libraries like pandas , numpy , matplotlib.pyplot and seaborn 
+and loaded the data to the variable called df 
+# 2. ***Basic Operations On Data***
+I have performed basic opertaions like isnull(),duplicated(),info(), and dropped the least co-related columns from the dataset and my new data set consists of 'Avg. Session Length','Time on App','Time on Website','Length of Membership' and the Target Variable='yearly Amount Spent'
+
+
+
